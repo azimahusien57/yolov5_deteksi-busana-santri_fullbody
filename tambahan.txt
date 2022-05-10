@@ -1,0 +1,4 @@
+---------- point------
+1.untuk data training gambar min 1000 gambar denga model objuek berbeda kalau yolo menggunakan data format txt
+2.custume data diubah menurut kelas nya
+3.data data testing bisa berupa gambar dan video
